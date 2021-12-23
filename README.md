@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <div align="center">
     <h1>🔎 For more 🔎</h1>
 
+<a href="mailto:msjun23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://msjun23.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/msjun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100006414213953" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
