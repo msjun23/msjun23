@@ -15,8 +15,18 @@ Here are some ideas to get you started:
 
 # Hello! Welcome to Seokjun Moon!
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp
+<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> -->
+
+<img src="https://img.shields.io/badge/Window-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
 ![msjun23's github stats](https://github-readme-stats.vercel.app/api?username=msjun23&show_icons=true)
 [![msjun23's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=msjun23&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/msjun23)
