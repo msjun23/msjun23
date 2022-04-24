@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello! Welcome to Seokjun Moon!
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=random&height=160&section=header&fontSize=90)
+# Hello! Welcome to Seokjun Moon!
 
 <div align="center">
     <h1>🎓 Tech Stack 🎓</h1>
