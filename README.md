@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # Hello! Welcome to Seokjun Moon!
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=160&section=header&fontSize=40&text=Hello!%Welcome%to%Seokjun%Moon!)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Seokjun%20Moon!&descAlignY=51&descAlign=62)
 
 <div align="center">
