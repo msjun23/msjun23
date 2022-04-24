@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20Seokjun%20Moon!&descAlignY=51&descAlign=54)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello%20World!&fontSize=53&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20Seokjun%20Moon!&descAlignY=51&descAlign=53)
 
 <div align="center">
     <h1>🎓 Tech Stack 🎓</h1>
