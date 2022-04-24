@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20World!&fontSize=53&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20Seokjun%20Moon!&descAlignY=51&descAlign=53)
+<!-- https://github.com/kyechan99/capsule-render -->
 
 <div align="center">
     <h1>🎓 Tech Stack 🎓</h1>
