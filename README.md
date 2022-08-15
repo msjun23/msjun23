@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <!-- https://github.com/kyechan99/capsule-render -->
 
 <div align="center">
-    <h1>🎓 Tech Stack 🎓</h1>
+    <h1>🎓 Education 🎓</h1>
+    - Kwangwoon Univ. B.S. in Division of Robotics (2016.03 ~ 2023.02, Undergraduated)
+
+<div align="center">
+    <h1>💻 Tech Stack 💻</h1>
 
 <img src="https://img.shields.io/badge/Window-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
