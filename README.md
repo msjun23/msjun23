@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h1>🎓 Education 🎓</h1>
-    - Kwangwoon Univ. B.S. in Division of Robotics (2016.03 ~ 2023.02, Undergraduated)
+    - Kwangwoon Univ, B.S. in Division of Robotics (2016.03 ~ 2023.02, Undergraduated)
 
 <div align="center">
     <h1>💻 Tech Stack 💻</h1>
