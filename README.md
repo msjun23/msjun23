@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <h1>🎓 Education 🎓</h1>
     - <b>Kwangwoon Univ.</b>, B.S. in Division of Robotics (2016.03 ~ 2023.02)
     <br></br>
-    - <b>Yonsei Univ.</b>, M.S. Candidate at <a href=https://yonseivnl.github.io/>Vision and Learning Lab.</a> (2023.03 ~ 2025.02)
+    - <b>Yonsei Univ.</b>, M.S. Candidate at <a href=https://yonseivnl.github.io/>VnL(Vision and Learning Lab.)</a> (2023.03 ~ 2025.02)
 
 <div align="center">
     <h1>💻 Tech Stack 💻</h1>
