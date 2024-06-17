@@ -21,6 +21,7 @@ Here are some ideas to get you started:
     - <b>Kwangwoon Univ.</b>, B.S. in Division of Robotics (2016.03 ~ 2023.02)
     <br></br>
     - <b>Yonsei Univ.</b>, M.S. Candidate at <a href=https://yonseivnl.github.io/>VnL(Vision and Learning Lab.)</a> (2023.03 ~ 2025.02)
+    - <b>Seoul National Univ.</b>, M.S. Candidate at <a href=https://snumprlab.github.io/>MPR(Machine Perception and Reasoning Lab.)</a> (2024.03 ~ 2025.02) (Professor moved to SNU)
 
 <div align="center">
     <h1>💻 Tech Stack 💻</h1>
