@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <br></br>
     - <b>Yonsei Univ.</b>, M.S. Candidate at <a href=https://yonseivnl.github.io/>VnL(Vision and Learning Lab.)</a> (2023.03 ~ 2025.02)
     <br></br>
-    - <b>Seoul National Univ.</b>, Student Researcher at <a href=https://snumprlab.github.io/>SNUMPR(SNU Machine Perception and Reasoning Lab.)</a> (2024.03 ~ 2025.02) (Professor moved to SNU)
+    - <b>Seoul National Univ.</b>, Student Researcher at <a href=https://snumprlab.github.io/>SNUMPR(SNU Machine Perception and Reasoning Lab.)</a> (2024.03 ~ 2025.02, Professor moved to SNU)
 
 <div align="center">
     <h1>💻 Tech Stack 💻</h1>
